@@ -17,3 +17,7 @@ models/
 # Operating System files
 .DS_Store
 Thumbs.db
+
+# PyCharm
+.idea/
+*.iml
